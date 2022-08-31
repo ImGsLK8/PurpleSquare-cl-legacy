@@ -9,4 +9,10 @@ PurpleCL - Legacy
 ```
 
 <hr>
+
+### Links:
+
+*User:* [/u](/u)
+
+<hr>
 PurpleSquare S.A (c) All Right Reserved - Since 2019
